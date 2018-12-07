@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/6/2018
 
 ### Student Name:  
-(First and Last Name)
+Maxwell Schwartz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I used an api to access a movie database to display searched for movie info.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://generalasia.github.io/Lesson8_ajax/. 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)# Lesson8_ajax
+1. I learned how to use API keys from other site databases 
+2. I learned how to pull information from and API to my site.
+3. I learned how to reference movie information from a js file to and html.
+4. I learned how to read a websites instructions for calling their functions.
+5. I learned the difference from calling text when compaired to calling an image(poster).
